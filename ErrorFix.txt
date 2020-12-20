@@ -1,0 +1,2 @@
+1. pip error installation:
+=> Try to search : " can't import xxxxx windows"
